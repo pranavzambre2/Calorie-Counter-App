@@ -1,0 +1,405 @@
+body {
+    background-color: antiquewhite;
+    min-height: 100vh;
+    color: rgb(255, 0, 0);
+}
+
+.heading {
+    width: 325px;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+    border-radius: 10px;
+    position: relative;
+    left: 180px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.item1 {
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+}
+
+.burger {
+    position: relative;
+    left: 120px;
+    top: -60px;
+    padding: 5px;
+}
+
+.img1 {
+    position: relative;
+    top: 29px;
+    right: 5px;
+}
+
+.item2 {
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.Sandwich {
+    position: relative;
+    left: 120px;
+    top: -67px;
+    padding: 5px;
+}
+
+.img2 {
+
+    position: relative;
+    top: 29px;
+    right: 5px;
+}
+
+.item3 {
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.img3 {
+    position: relative;
+    top: 29px;
+    right: 5px;
+}
+
+.Omlett {
+    color: black;
+    position: relative;
+    left: 120px;
+    top: -67px;
+    padding: 5px;
+}
+
+.item4 {
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.img4 {
+
+    position: relative;
+    top: 29px;
+    right: 5px;
+}
+
+.Momos {
+    position: relative;
+    left: 120px;
+    top: -57px;
+    padding: 5px;
+}
+
+.item5 {
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+    position: relative;
+    left: 570px;
+    bottom: 640px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.img5 {
+    position: relative;
+    right: 5px;
+    top: 33px;
+}
+
+.Halwa {
+    position: relative;
+    left: 120px;
+    top: -47px;
+    padding: 5px;
+}
+
+.item6 {
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+    position: relative;
+    left: 570px;
+    bottom: 640px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.img6 {
+    position: relative;
+    top: 36px;
+    right: 5px;
+}
+
+.Brownbread {
+    position: relative;
+    left: 117px;
+    top: -61px;
+    padding: 5px;
+}
+
+.item7 {
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+    position: relative;
+    left: 570px;
+    bottom: 640px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.Rice {
+    position: relative;
+    left: 120px;
+    top: -51px;
+    padding: 5px;
+}
+
+.img7 {
+    position: relative;
+    top: 28px;
+    right: 5px;
+}
+
+.item8 {
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+    position: relative;
+    left: 570px;
+    bottom: 640px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.img8 {
+    position: relative;
+    top: 22px;
+    right: 5px;
+}
+
+.Cookies {
+    position: relative;
+    left: 100px;
+    top: -70px;
+    padding: 5px;
+}
+
+.item9 {
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+    position: relative;
+    left: 1130px;
+    bottom: 1095px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.img9 {
+    position: relative;
+    top: 38px;
+    right: 5px;
+}
+
+.Chicken {
+    position: relative;
+    left: 120px;
+    top: -45px;
+    padding: 5px;
+}
+
+.item10 {
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+    position: relative;
+    left: 1133px;
+    bottom: 1096px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.img10 {
+    position: relative;
+    right: 5px;
+    top: 27px;
+}
+
+.Pasta {
+    position: relative;
+    left: 120px;
+    top: -69px;
+    padding: 5px;
+
+}
+
+footer {
+    background-color: aquamarine;
+    width: 100vh;
+
+    display: inline;
+
+    position: relative;
+    bottom: 875px;
+
+
+}
+
+.left1 {
+    width: 8vw;
+    height: 6vh;
+    background-color: bisque;
+    color: black;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    cursor: pointer;
+    border-radius: 20px 40px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+
+}
+
+.left2 {
+    width: 15vw;
+    height: 6vh;
+    background-color: bisque;
+    color: black;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: 2px;
+    position: relative;
+    bottom: 73px;
+    left: 430px;
+    cursor: pointer;
+    border-radius: 20px 40px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+}
+
+.right2 {
+    width: 15vw;
+    height: 6vh;
+    background-color: bisque;
+    color: black;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    margin: 2px;
+    position: relative;
+    bottom: 125px;
+    left: 841px;
+    cursor: pointer;
+    border-radius: 20px 40px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+
+}
+
+.right1 {
+    width: 12vw;
+    height: 6vh;
+    background-color: bisque;
+    color: black;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: 2px;
+    position: relative;
+    bottom: 179px;
+    left: 1180px;
+    cursor: pointer;
+    border-radius: 20px 40px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .7);
+
+
+}
+
+.Fpoint {
+    color: black;
+    position: relative;
+    left: 30px;
+    bottom: 911px;
+    font-size: 20px;
+}
